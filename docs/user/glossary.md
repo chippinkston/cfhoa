@@ -11,8 +11,8 @@ These are the terms for the representatives of the HOA Board/Leadership/Steering
 
 ##Locations
 The following list provides a generic set of terms to be used in describing a variety of organizational structures.
-* Residence - The lowest level (atomic) representation of an occupiable area.  Also known as a _Unit_.
-* Unit - A short hand term for a Residence.
+* Unit - The lowest level (atomic) representation of an occupiable area.  Also known as a _Residence_.
+* Residence - A longer form version of _Unit_.
 * Property - A discreet physical structure identified by some form of unique identifier.  May contain one(1) or more Residences.
 * Street - A named collection of Properties.  Usually used as part of the addressing scheme.
 * Sub-division - A grouping of Streets and their associated sub-components. 

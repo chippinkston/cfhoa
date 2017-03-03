@@ -1,0 +1,2 @@
+#ORM Entities
+All ORM entities must extend the `base.cfc` Entity.  This entity will provide for common fields all entities must have (id, date created, etc...) as well as a common (though overridable) lifecycle.
